@@ -22,7 +22,7 @@
     <header class="top_header">
         <div class="wrapper">
             <a href="#" class="logo">
-                <img src="img/svg/logo.svg" alt="logo" srcset="" />
+                <img src="Img/svg/logo.svg" alt="logo" srcset="" />
             </a>
                 <ul class="info">
                     <li><a href="#projects">Проекты</a></li>
@@ -44,7 +44,7 @@
     </header>
     <main>
         <div class="main_background">
-            <img src="img/svg/main_background_gl.svg" alt="backgound">
+            <img src="Img/svg/main_background_gl.svg" alt="backgound">
             <h1 class="main">Ваша идеальная баня ждет вас!</h1>
             <p class="st">Релаксация и уют в каждой детали</p>
             <p class="nd">Свяжитесь с нами сейчас, чтобы узнать больше!</p>
